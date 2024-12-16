@@ -1,0 +1,4 @@
+Open CMD
+RUn the following commands:
+  npm run build
+  npm run start:dev
